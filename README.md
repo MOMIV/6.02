@@ -32,7 +32,8 @@
 
 Пример вывода:
 
-![Image alt](https://github.com/MOMIV/MIV6.02/blob/main/Screens/0.png)
+![Image alt](https://github.com/MOMIV/6.02/blob/main/Screens/0.png)
+
 
 
 Названия столбцов — идентичные образцу. Значения — любые.
@@ -46,10 +47,10 @@
 Решение
 
 
-![Image alt](https://github.com/MOMIV/MIV6.02/blob/main/Screens/1.png)
+![Image alt](https://github.com/MOMIV/6.02/blob/main/Screens/1.png)
 
-![Image alt](https://github.com/MOMIV/MIV6.02/blob/main/Screens/2.png)
+![Image alt](https://github.com/MOMIV/6.02/blob/main/Screens/2.png)
 
-![Image alt](https://github.com/MOMIV/MIV6.02/blob/main/Screens/3.png)
+![Image alt](https://github.com/MOMIV/6.02/blob/main/Screens/3.png)
 
 
